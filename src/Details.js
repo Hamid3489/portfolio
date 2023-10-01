@@ -3,7 +3,7 @@
 import logogradient from "./assets/logo.svg";
 import logo from "./assets/logo2.svg";
 // Profile Image
-import profile from "./assets/profile.jpeg";
+import profile from "./assets/profile.jpg";
 // Tech stack images
 import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
@@ -100,8 +100,10 @@ export const techStackDetails = {
   react: react,
   redux: redux,
   sass: sass,
+  tailwind: tailwind,
   bootstrap: bootstrap,
   vscode: vscode,
+  postman: postman,
   npm: npm,
   git: git,
   github: github,
@@ -168,6 +170,6 @@ project lorem ipsum generator for dummy content`,
 
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "hamid.f3489@gmail.com",
-  phone: "+923175954241",
+  email: "haimd.f3489@gmail.com",
+  phone: "+92 317 5954241",
 };
