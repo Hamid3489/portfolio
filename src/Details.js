@@ -3,7 +3,7 @@
 import logogradient from "./assets/logo.svg";
 import logo from "./assets/logo2.svg";
 // Profile Image
-import profile from "./assets/profile.jpg";
+import profile from "./assets/profile.jpeg";
 // Tech stack images
 import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
@@ -38,37 +38,37 @@ export const personalDetails = {
   name: "Hamid Firdous",
   tagline: "I am a Software Engineer",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: ` Software Engineer with a diverse skill set encompassing web and React development, graphic design, UI/UX design, 3D modeling, game design, CRM, and virtual assistant solutions. I bring creativity and technical expertise to the table, transforming ideas into functional and visually appealing digital experiences. My passion for innovation drives me to deliver top-notch solutions that enhance user engagement and business outcomes. Let's connect and collaborate to turn your visions into reality.`,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
+  linkdein: "https://www.linkedin.com/in/hamid-firdous-537b8118b/",
+  github: "https://github.com/Hamid3489",
   twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  instagram: "https://www.instagram.com/hamidfirdous/?next=%2F",
 };
 
 // Enter your Work Experience here
 export const workDetails = [
   {
     Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Company: `Freelance`,
+    Location: "Remote",
+    Type: "Part Time",
+    Duration: "Sep 2021 - July 2023",
   },
   {
     Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Company: `Orbit360`,
+    Location: "Remote",
     Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "Sep 2023 - Current",
   },
   {
     Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Company: `Exact`,
+    Location: "Abbottabad",
     Type: "Internship",
     Duration: "Sep 2021 - Dec 2021",
   },
@@ -77,18 +77,18 @@ export const workDetails = [
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Frontend Development",
-    Company: "Udemy, YouTube, Google, Medium",
-    Location: "Online",
+    Position: "Bachelor in Software Engineering",
+    Company: `Comsats`,
+    Location: "Abbottabad",
     Type: "Full Time",
-    Duration: "Jan 2022 - Present",
+    Duration: "Sep 2019 - August 2023",
   },
   {
-    Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
+    Position: "Bachelor in Software Engineering",
+    Company: `Comsats`,
+    Location: "Abbottabad",
     Type: "Full Time",
-    Duration: "Aug 2020 - Present",
+    Duration: "Sep 2019 - August 2023",
   },
 ];
 
@@ -100,10 +100,10 @@ export const techStackDetails = {
   react: react,
   redux: redux,
   sass: sass,
-  tailwind: tailwind,
+  unity: unity,
   bootstrap: bootstrap,
   vscode: vscode,
-  postman: postman,
+  blender: blender,
   npm: npm,
   git: git,
   github: github,
@@ -170,6 +170,6 @@ project lorem ipsum generator for dummy content`,
 
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "hi@example.com",
-  phone: "+91 12345 67890",
+  email: "hamid.f3489@gmail.com",
+  phone: "+923175954241",
 };
